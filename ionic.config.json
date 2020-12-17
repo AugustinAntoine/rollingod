@@ -1,0 +1,7 @@
+{
+  "name": "rollinGod",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
